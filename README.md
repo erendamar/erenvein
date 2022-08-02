@@ -6,12 +6,10 @@
 
 <h3>My Social Media Acconts!</h3>
 
-[<img src='https://cdn.discordapp.com/attachments/980407803166457916/1004095992070684682/insta.png'>](https://instagram.com/erendamar#gh-light-mode-only)>]
-[<img src='https://cdn.discordapp.com/attachments/921909276841214023/965352419951255612/spotify-light.png'>](https://sptfy.com/erenvein#gh-light-mode-only)>]
-[<img src='https://cdn.discordapp.com/attachments/921909276841214023/965352420148404285/spotify-dark.png'>](https://[https://sptfy.com/erenvein](https://sptfy.com/erenvein)#gh-dark-mode-only)&nbs
+[<img src='https://cdn.discordapp.com/attachments/980407803166457916/1004095992070684682/insta.png'>](https://instagram.com/erendamar#gh-light-mode-only)
+[<img src='https://cdn.discordapp.com/attachments/921909276841214023/965352419951255612/spotify-light.png'>](https://sptfy.com/erenvein#gh-light-mode-only)
 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/311184536379719680)](https://discord.com/users/311184536379719680)
 
 
-</p>
