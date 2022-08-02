@@ -5,7 +5,6 @@
 <img src="https://komarev.com/ghpvc/?username=erenvein&label=Views&color=552b75" alt="erenvein" />
 
 <h3>My Social Media Acconts!</h3>
-<p align="left">
 [![website](./image/instagram-light.svg)](https://instagram.com/erendamar#gh-light-mode-only)
 [![website](./image/instagram-dark.svg)](https://instagram.com/erendamar#gh-dark-mode-only)&nbsp;&nbsp;
 [<img src='https://cdn.discordapp.com/attachments/921909276841214023/965352419951255612/spotify-light.png'>](https://sptfy.com/erenvein#gh-light-mode-only)
