@@ -6,9 +6,10 @@
 
 <h3>My Social Media Acconts!</h3>
 <p align="left">
-   <a href="https://instagram.com/erendamar" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
- <a href="https://www.sptfy.com/erenvein" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-   <a href="https://www.discord.com/users/311184536379719680" target"blank_"><img src="https://img.shields.io/badge/Discord%20-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+[![website](./image/instagram-light.svg)](https://instagram.com/erendamar#gh-light-mode-only)
+[![website](./image/instagram-dark.svg)](https://instagram.com/erendamar#gh-dark-mode-only)&nbsp;&nbsp;
+[<img src='https://cdn.discordapp.com/attachments/921909276841214023/965352419951255612/spotify-light.png'>](https://sptfy.com/erenvein#gh-light-mode-only)
+[<img src='https://cdn.discordapp.com/attachments/921909276841214023/965352420148404285/spotify-dark.png'>](https://[open.spotify.com/user/31mfqznn6maqp7secfmlo4mlm77m](https://sptfy.com/erenvein)#gh-dark-mode-only)&nbsp;&nbsp;
 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/311184536379719680)](https://discord.com/users/311184536379719680)
