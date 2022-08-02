@@ -6,7 +6,9 @@
 
 <h3>My Social Media Acconts!</h3>
 
-# [<img src="https://cdn.discordapp.com/attachments/980407803166457916/1004095992070684682/insta.png"> Instagram](https://instagram.com/erendamar)
+<p>
+  [<img src="https://cdn.discordapp.com/attachments/980407803166457916/1004095992070684682/insta.png"> Instagram](https://instagram.com/erendamar)
+</p>
 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/311184536379719680)](https://discord.com/users/311184536379719680)
