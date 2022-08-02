@@ -6,11 +6,12 @@
 
 <h3>My Social Media Acconts!</h3>
 
-
-## [<img src="https://cdn.discordapp.com/attachments/980407803166457916/1004095992070684682/insta.png"> Instagram](https://instagram.com/erendamar)
-
+<p align="left">
+   <a href="https://instagram.com/erendamar_" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+ <a href="https://www.sptfy.com/erenvein" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/311184536379719680)](https://discord.com/users/311184536379719680)
 
 
+</p>
